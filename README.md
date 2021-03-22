@@ -7,7 +7,7 @@ Twins pairs are identified by having the first digits equal but the last digit d
 
 Corr_FE_ratings contains the correlation between priors and each ratings and memory score for each subject.
 
-DataMixed contained scores at trial level of priors and subjective ratings.
+DataMixed contains scores at trial level of priors and subjective ratings.
 
 Code
 
